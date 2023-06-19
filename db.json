@@ -1,0 +1,122 @@
+{
+  "posts": [
+    {
+      "firstName": "Sachi",
+      "lastName": "Mishra",
+      "email": "mishra@gmail.com",
+      "dob": "2023-06-13T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Amazon",
+      "experience": 3,
+      "package": 21,
+      "id": 2
+    },
+    {
+      "firstName": "Shraddha ",
+      "lastName": "Gupta ",
+      "email": "shraddha@gmail.com",
+      "dob": "2023-06-09T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Flipkart",
+      "experience": 3,
+      "package": 20,
+      "id": 3
+    },
+    {
+      "firstName": "prachi",
+      "lastName": "mishra",
+      "email": "mishra@gmnail.com",
+      "dob": "2023-06-19T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Goggle",
+      "experience": 2,
+      "package": 20,
+      "id": 7
+    },
+    {
+      "firstName": "Sagar",
+      "lastName": "Mishra",
+      "email": "sagar@gmail.com",
+      "dob": "2023-06-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Managment",
+      "experience": 3,
+      "package": 20,
+      "id": 8
+    },
+    {
+      "firstName": "jiya",
+      "lastName": "gupta",
+      "email": "ksjd@gmail.com",
+      "dob": "2023-06-12T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Graduate",
+      "experience": 4,
+      "package": 6,
+      "id": 10
+    },
+    {
+      "firstName": "sachi",
+      "lastName": "mishra",
+      "email": "sachi@gmail.com",
+      "dob": "2023-06-20T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Google",
+      "experience": 5,
+      "package": 5,
+      "id": 12
+    },
+    {
+      "firstName": "Sunil",
+      "lastName": "Verma",
+      "email": "sunil@gmail.com",
+      "dob": "2023-06-13T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Graduate",
+      "experience": 3,
+      "package": 3,
+      "id": 13
+    }
+  ],
+  "signup": [
+    {
+      "fname": "prachi",
+      "lname": "gupta",
+      "email": "prachi@gmail.com",
+      "password": "2345",
+      "mobile": "882300285",
+      "id": 1
+    },
+    {
+      "fname": "sachi",
+      "lname": "mishra",
+      "email": "mishra@gmail.com",
+      "password": "23445",
+      "mobile": "9340320366",
+      "id": 2
+    },
+    {
+      "fname": "sagar",
+      "lname": "mishra",
+      "Email": "mishra@gmail.com",
+      "password": "12345",
+      "mobile": "9340320366",
+      "id": 3
+    },
+    {
+      "fname": "sagar",
+      "lname": "mishra",
+      "Email": "mishra@gmail.com",
+      "password": "12345",
+      "mobile": "9340320366",
+      "id": 4
+    }
+  ]
+}
